@@ -27,7 +27,7 @@ The program consists of the following main components:
 
 ### Encoding Process
 
-The encoding process reads lines from the `Homework #3 - Encoding Text.txt` file and performs the following steps for each character:
+The encoding process reads lines from the `Encoding Text.txt` file and performs the following steps for each character:
 
 1. Convert the character into its binary representation using ASCII encoding.
 
@@ -37,7 +37,7 @@ The encoding process reads lines from the `Homework #3 - Encoding Text.txt` file
 
 ### Decoding Process
 
-The decoding process reads lines from the `Homework #3 - Decoding Text.txt` file and performs the following steps for each line:
+The decoding process reads lines from the `Decoding Text.txt` file and performs the following steps for each line:
 
 1. Convert the ASCII-encoded characters into integers.
 
@@ -77,9 +77,9 @@ The program consists of the following files:
 
 - `main.rs`: The main source code file containing the program logic.
 
-- `Homework #3 - Encoding Text.txt`: The input file for the encoding process, containing the text to be encoded.
+- `Encoding Text.txt`: The input file for the encoding process, containing the text to be encoded.
 
-- `Homework #3 - Decoding Text.txt`: The input file for the decoding process, containing the encoded text.
+- `Decoding Text.txt`: The input file for the decoding process, containing the encoded text.
 
 ## License
 

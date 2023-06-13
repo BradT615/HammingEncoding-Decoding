@@ -9,8 +9,8 @@ This program demonstrates encoding and decoding processes using a modified Hammi
 2. Clone the repository or download the source code files.
 
 3. Provide the input files:
-   - **Encoding**: Place the text you want to encode in the `Homework #3 - Encoding Text.txt` file.
-   - **Decoding**: Place the encoded text in the `Homework #3 - Decoding Text.txt` file.
+   - **Encoding**: Place the text you want to encode in the `Encoding Text.txt` file.
+   - **Decoding**: Place the encoded text in the `Decoding Text.txt` file.
 
 4. Open a terminal or command prompt and navigate to the project directory.
 
